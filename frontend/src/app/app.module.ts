@@ -16,7 +16,7 @@ import { TeaseComponent } from './tease/tease.component';
     StoryblokDirective,
     TeaseComponent,
     GridComponent,
-    FeatureComponent
+    FeatureComponent,
   ],
   imports: [
     BrowserModule,
